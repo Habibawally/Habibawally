@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="AI GIF" />
+  <img height="150" src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" alt="Futuristic AI" />
 </div>
 
 
