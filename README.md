@@ -11,7 +11,7 @@
   <a href="mailto:habibawally35@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="30" alt="gmail logo" />
   </a>
-  <a href="https://www.kaggle.com/habibawally" target="_blank">
+  <a href="[https://www.kaggle.com/habibawally](https://www.kaggle.com/habibawally)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&style=for-the-badge" height="30" alt="kaggle logo" />
   </a>
 </div>
@@ -24,21 +24,21 @@
 
 ###
 
-<h1 align="center">👋 Hey there, I'm Habiba Wally</h1>
+<h1 align="center">Hey, I'm Habiba Wally</h1>
 <h3 align="center">AI Engineer | Machine Learning Developer | Deep Learning Researcher</h3>
 
 ###
-
-<h3 align="left">👩‍💻 About Me</h3>
-
-<p align="left">
-I'm an <b>AI Engineer</b> and <b>Computer Science & Artificial Intelligence Graduate</b> from Pharos University in Alexandria.<br><br>
-- 🔭 I’m currently working on <b>Smart Rehabilitation Systems</b> using EMG, IMU, and MediaPipe.<br>
-- 🤖 I have hands-on experience in <b>Machine Learning, Deep Learning, and Computer Vision</b>.<br>
-- 🌱 I’m learning <b>MLOps</b> and exploring <b>LLMs</b> to enhance intelligent systems.<br>
-- 💬 Ask me about <b>Python, TensorFlow, AI Model Development, and Flutter for AI apps</b>.<br>
-- ⚡ Fun fact: I love connecting technology with human impact — especially in healthcare and education.
+<h3 align="left">👩‍💻 About Me</h3>  
+<p align="left"> 
+I'm a <b>Computer Science & Artificial Intelligence Graduate</b> from Pharos University in Alexandria.<br><br>  
+- 🎓 Recently graduated (June 2025) with a <b>B.Sc. in Computer Science & AI</b>.<br>  
+- 🔭 I’ve worked on projects in <b>Smart Rehabilitation Systems</b>, AI Chatbots, and Mobile Apps using Flutter & Firebase.<br>  
+- 🤖 Skilled in <b>Machine Learning, Deep Learning, and Computer Vision</b>, with experience using <b>TensorFlow, Keras, and MediaPipe</b>.<br>  
+- 🌱 Currently looking for <b>AI/ML/DL developer roles or internships</b> to grow my career.<br>  
+- 💬 Ask me about <b>Python, AI model development, data science, and mobile AI apps</b>.<br>  
+- ⚡ Fun fact: I love applying AI to solve real-world problems in <b>healthcare and education</b>.  
 </p>
+
 
 ###
 
