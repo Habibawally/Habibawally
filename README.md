@@ -1,5 +1,5 @@
-<div align="center"> 
-  <img height="200" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" />
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 ###
@@ -25,7 +25,7 @@
 ###
 
 <h1 align="center">👋 Hey there, I'm Habiba Wally</h1>
-<h3 align="center">AI Engineer | Machine Learning Specialist | Deep Learning Researcher</h3>
+<h3 align="center">AI Engineer | Machine Learning Developer | Deep Learning Researcher</h3>
 
 ###
 
@@ -61,7 +61,6 @@ I'm an <b>AI Engineer</b> and <b>Computer Science & Artificial Intelligence Grad
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="45" alt="docker logo" />
 </div>
 
 ###
