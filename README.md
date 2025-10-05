@@ -1,15 +1,11 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="AI Software Engineer" />
+  <img height="150" src="https://media.tenor.com/images/[GIF_ID]/tenor.gif" alt="Coding Girl" />
 </div>
+
 
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=HabibaWally.HabibaWally&left_color=black&right_color=purple" />
-</div>
-
-###
 
 <h1 align="center">Hey, I'm Habiba Wally</h1>
 <h3 align="center">AI Engineer | Machine Learning Developer | Deep Learning Researcher</h3>
@@ -25,6 +21,9 @@
   <a href="https://www.kaggle.com/habibawally" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&style=for-the-badge" height="30" alt="kaggle logo" />
   </a>
+</div>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=HabibaWally.HabibaWally&left_color=black&right_color=purple" />
 </div>
 
 ###
