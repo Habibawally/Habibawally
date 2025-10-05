@@ -68,7 +68,7 @@ I'm a <b>Computer Science & Artificial Intelligence Graduate</b> from Pharos Uni
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HabibaWally&show_icons=true&theme=radical" height="180" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=HabibaWally&theme=radical&hide_border=false" height="180" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=Habiba&theme=radical&hide_border=false" height="180" alt="streak graph" />
 </div>
 
 <h3 align="left">🏆 Achievements</h3>
