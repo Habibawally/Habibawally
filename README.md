@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="AI Engineer Woman" />
+  <img height="150" src="https://media.giphy.com/media/Z9Xif5a1j0z5mt7k2N/giphy.gif" alt="AI Logo" />
 </div>
 
 
