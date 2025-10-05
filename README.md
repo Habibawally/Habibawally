@@ -1,7 +1,6 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="AI GIF" />
+  <img height="150" src="https://media.giphy.com/media/2ikwIgNrmPZICNmRyX/giphy.gif" alt="AI Robot" />
 </div>
-
 ###
 
 <div align="center">
