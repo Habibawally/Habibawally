@@ -1,7 +1,6 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/2ikwIgNrmPZICNmRyX/giphy.gif" alt="AI Robot" />
+  <img height="150" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="AI Brain" />
 </div>
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/habiba-wally/" target="_blank">
