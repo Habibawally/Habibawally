@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.tenor.com/2uyENRmiUt0AAAAM/coding.gif" alt="Coding Girl" />
+  <img height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="AI Engineer Woman" />
 </div>
 
 
