@@ -71,10 +71,6 @@ I'm a <b>Computer Science & Artificial Intelligence Graduate</b> from Pharos Uni
 
 <h3 align="left">🏆 Achievements</h3>
 
-- 🚀 **Technical Ambassador** – ZAKA AI  
-- 🧩 **AI Instructor** – Pyramakerz  
-- 💡 **Innovation Ambassador** – TIEC  
-- 🪐 **NASA Space Apps Challenge 2024** Participant  
 
 ---
 
