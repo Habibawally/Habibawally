@@ -23,7 +23,7 @@ My work covers three areas: **generative AI** (diffusion models), **NLP and spee
 
 | Project | What it does | Result | Stack |
 |---|---|---|---|
-| 🦾 **[Smart Rehabilitation System](https://github.com/Habibawally/Smart-Rehabilitation-System)**<br><sub>Graduation project</sub> | Remote physiotherapy app that tracks exercises with sEMG, IMU and ECG sensors and gives patients feedback | **80.1%** movement classification accuracy | GRU, Random Forest, LRCN, MediaPipe, Flutter |
+| 🦾 **[Smart Rehabilitation System]([https://github.com/Habibawally/Smart-Rehabilitation-System)](https://github.com/Habibawally/Smart-Rehabilitation-System-Graduation-Project-)**<br><sub>Graduation project</sub> | Remote physiotherapy app that tracks exercises with sEMG, IMU and ECG sensors and gives patients feedback | **80.1%** movement classification accuracy | GRU, Random Forest, LRCN, MediaPipe, Flutter |
 | 🎨 **[Diffusion Model from Scratch](https://github.com/Habibawally/Image-Generation-with-Diffusion-Models)** | Denoising diffusion model that generates images, built without any diffusion library | Full DDPM with 1,000 timesteps | PyTorch, ResNet18, self-attention |
 | 🎧 **[Podcast Summarization & Emotion Detection](https://github.com/Habibawally/podcast-summarization-emotion-detection)** | Turns podcast audio into a transcript, a short summary and an emotional tone reading | End-to-end pipeline with desktop GUI | Whisper, DistilBART, Librosa |
 | 🍎 **[Fruit Quality Classification](https://github.com/Habibawally/Quality-of-fruits)** | Sorts fruit images into good, bad and mixed quality across 6 fruit types | **96.2%** test accuracy on 18 classes | InceptionResNetV2, TensorFlow |
